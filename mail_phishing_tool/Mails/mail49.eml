@@ -1,0 +1,52 @@
+Received: from [10.162.225.38] (HELO send003.gov-dooray.com)
+ ([10.162.225.38]) by smtp006.gov-dooray.com with SMTP id 099f6b53674d70d5;
+ Mon, 02 Dec 2024 17:33:25 +0900
+DKIM-Signature: a=rsa-sha256;
+ b=1TGd+I5yf5fY2dYhZwsgg/z63aZJkIhmyenvlOg1WZUsA77Ljhsa/gBrLQKfim80SSNlfeuS38
+  B+1ncbo5k57UBP34z+jqdAUSM4nUqBqLQ986sIYgGGpgJ1HVHWppw60Zct5heUg19G4kNj+3d+iw
+  y/oOxlUC2mg6AGpoPNOQeFAjlkC8fhEcdbiaii3nS9DsJFXECQuzjs6hzAHSJi9Weq7cyHnFq9v2
+  +z/CmtbfxEdcGOJT6bzxNKXSsrnaEHBBrM+fOOMxOJi+01YBmyzr2VSrnQh76x0ZqavD5WsewZ7G
+  LOvF5Az/+2oV4iq7YdyTEuNwnI9qiKmb9Bw0+V1w==;
+ c=relaxed/relaxed; s=dooray; d=kaist.ac.kr; v=1;
+ bh=9jitKXaP6N/9Bzzl5jQ92SGzTklTlvo78C8o1+W6X/U=;
+ h=From:To:Subject:Message-ID;
+Received: from [110.76.108.230, 10.162.224.40] (HELO 110.76.108.230,
+ 10.162.224.40) ([110.76.108.230, 10.162.224.40]) by send003.gov-dooray.com
+ with SMTP id 4a76bcbb674d70d5; Mon, 02 Dec 2024 17:33:25 +0900
+From: YOURI MERZOUK <ymerzouk@kaist.ac.kr>
+To: YOURI MERZOUK <ymerzouk@kaist.ac.kr>
+Message-ID: <u08ykrchicl2.u08ykrchjjza.g5@dooray.com>
+Subject: [IS542] Phising test
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_151441_1109931664.1733128404252"
+X-Dsn-Request: true
+X-Dooray-Agent: mail-api
+X-Dooray-Mail-Id: 3949561139469623606
+Importance: Normal
+X-Priority: Normal
+X-MSMail-Priority: Normal
+X-Dooray-Attached: c3+LUOpPU/IB7Wl+oemm0lw5HiI/bJHHYClX72L8E3o=
+Sender: "YOURI MERZOUK" <ymerzouk@kaist.ac.kr>
+Date: Mon, 02 Dec 2024 17:33:24 +0900 (KST)
+Authentication-Results: mx.dooray.com;
+  spf=pass clientip=10.162.225.38 envelop.from=@kaist.ac.kr;
+  dkim=pass (signature was verified) header.d=kaist.ac.kr;
+  dmarc=pass header.from=kaist.ac.kr
+
+------=_Part_151441_1109931664.1733128404252
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: base64
+
+aHR0cHM6Ly9waGlzaW5nLm9yZyBodHRwczovL3BoaXNpbmcub3JnJm5ic3A7CgoK
+------=_Part_151441_1109931664.1733128404252
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: base64
+
+PGRpdiBzdHlsZT0iZm9udC1mYW1pbHk6IHN5c3RlbS11aTsgZm9udC1zaXplOiAxNHB4Ij48ZGl2
+PjxhIGRhdGEtZnItbGlua2VkPSJ0cnVlIiBocmVmPSJodHRwczovL3BoaXNpbmcub3JnIiByZWw9
+Im5vb3BlbmVyIG5vcmVmZXJyZXIgbm9vcGVuZXIgbm9yZWZlcnJlciIgdGFyZ2V0PSJfYmxhbmsi
+Pmh0dHBzOi8vcGhpc2luZy5vcmc8L2E+Jm5ic3A7PC9kaXY+PGRpdj48YnI+PC9kaXY+PCEtLSBi
+ZWdpbiBzaWduYXR1cmUgLS0+PCEtLSBlbmQgc2lnbmF0dXJlIC0tPjwvZGl2Pg==
+------=_Part_151441_1109931664.1733128404252--
+

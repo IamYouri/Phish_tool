@@ -1,0 +1,248 @@
+Received: from [10.162.225.112] (HELO smtp002-imp.gov-dooray.com)
+ ([10.162.225.112]) by smtp002.gov-dooray.com with SMTP id 07dd4774672f2cc8;
+ Sat, 09 Nov 2024 18:35:04 +0900
+DKIM-Signature: a=rsa-sha256;
+ b=vwfs7hby1pk5qHQSNblH+Z8+nANfDJsHgIvZnoZgqpny3JTOP6+iksgMKlYZzleKeEpMFphSej
+  X2u1cC/vXl9MlNxTsF+q3pF41Q68UnIPdXy3gJ42ckKMqwbF0Nxbml+szIpD5A4UQiRzTpmpd1Ba
+  HlE89PFUrg+h6LqEhZuIMhZ4zwPTWC/F2MitCNvpcTU5ldMmNp6QEa6uGBSinnEjXp6n/eJTSnfl
+  bK6ZRr/K6pkgS0lTiikyC4kvWDOcpoLM3UOfvwD+WnJHxrm0ma0MaSczitC6oHC/8hU7Cu2sA5PW
+  2ANArbwJjBfD7o+rbhP+umReKTQQpELfwSDY6oRA==;
+ c=relaxed/relaxed; s=dooray; d=kaist.ac.kr; v=1;
+ bh=+1kpxBcZr7oE6HNvNYjNaYVsEc5OAxjmgjn8uj9tLwg=;
+ h=From:To:Subject:Message-ID;
+Received: from [143.248.105.187] (HELO po1907251) ([143.248.105.187]) by
+ smtp002-imp.gov-dooray.com with SMTP id 9e2d8161672f2cc8; Sat, 09 Nov 2024
+ 18:35:04 +0900
+From: =?UTF-8?B?6rSA66as7J6Q?= <e_lkj@kaist.ac.kr>
+To: ymerzouk@kaist.ac.kr
+Message-ID: <419671981.222556.1731144904423.JavaMail.duitwas@po1907251>
+Subject: =?UTF-8?Q?[=EC=98=88=EC=95=BD=EB=B2=88=ED=98=B8:003645?=
+ =?UTF-8?Q?502]URS_=EC=98=88=EC=95=BD_=ED=99=95=EC=A0=95?=
+ =?UTF-8?Q?(Reservation_Confirmation)?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Authentication-Results: mx.dooray.com;
+  spf=unknown clientip=10.162.225.112 envelop.from=@kaist.ac.kr;
+  dkim=pass (signature was verified) header.d=kaist.ac.kr;
+  dmarc=pass header.from=kaist.ac.kr
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" />
+<meta http-equiv=3D"Content-Script-Type" content=3D"text/javascript" />
+<meta http-equiv=3D"Content-Style-Type" content=3D"text/css" />
+<meta name=3D"author" content=3D"GNsoft 0424825400" />
+<meta name=3D"copyright" content=3D"Copyright=C2=A9 KAIST. all rights reser=
+ved."  />
+<title>=EC=B9=B4=EC=9D=B4=EC=8A=A4=ED=8A=B8 =ED=86=B5=ED=95=A9=EC=98=88=EC=
+=95=BD=EC=8B=9C=EC=8A=A4=ED=85=9C</title>
+<style  type=3D"text/css">
+#mWrap {width:700px;margin:0 auto; background:url(https://urs.kaist.ac.kr/u=
+rs/images/ko/mail/bg_mid.gif) repeat-y;}
+    .header {position:relative;height:319px;padding-top:72px;background:url=
+(https://urs.kaist.ac.kr/urs/images/ko/mail/topBg.jpg) no-repeat 0 0; margi=
+n-bottom:-30px;}
+    .header h1.logo {position:absolute;top:14px;left:38px;width:160px;heigh=
+t:50px;}
+    .header h2 {position:absolute;top:180px;left:120px;font-size:16px; widt=
+h:490px; height:60px; text-align:center;}
+    .cont1 {position:absolute;top:250px;left:90px;font-size:16px; width:540=
+px;text-align:center; font-size:12px;}
+    .cont1 li {margin-bottom:6px;}   =20
+
+   =20
+   =20
+#mWrap2     {width:700px;margin:0 auto; background:url(https://urs.kaist.ac=
+.kr/urs/images/ko/mail/inBox_outbg.gif) repeat-y;}
+    .boxIn{ width:500px;border:1px solid #aac4d1;background:#d5eaed;padding=
+:15px 20px; margin-left:80px;}
+    .boxIn li {background:url(https://urs.kaist.ac.kr/urs/images/ko/mail/ic=
+o_bul_blue.gif) no-repeat 0 2px; padding:0 0 0 20px; margin-bottom:5px;}
+#bg     {width:700px;margin:0 auto; background:url(https://urs.kaist.ac.kr/=
+urs/images/ko/mail/bg_bo.gif) repeat-y;}   =20
+
+
+#mWrap3     {width:700px;margin:0 auto; background:url(https://urs.kaist.ac=
+.kr/urs/images/ko/mail/bg_bo.gif) repeat-y;}   =20
+    .btn { padding-top:20px; text-align:center; padding-bottom:25px;}
+   =20
+   =20
+    .noti {width:700px;margin:0 auto; background:url(https://urs.kaist.ac.k=
+r/urs/images/ko/mail/bg_03.gif) no-repeat 0 0; height:100px; padding-top:20=
+px;}
+    .copy {width:700px;margin:0 auto; height:70px; background-color:#f7f8fa=
+; margin-top:-20px;}
+   =20
+   =20
+.add1{width:700px;margin:0 auto; background:url(https://urs.kaist.ac.kr/urs=
+/images/ko/mail/bg_mid.gif) repeat-y; padding-bottom:20px;}=20
+.addBox { padding:10px 80px;}   =20
+   =20
+.add2{width:700px;margin:0 auto; background:url(https://urs.kaist.ac.kr/urs=
+/images/ko/mail/bg_bo.gif) repeat-y;padding-top:20px;} =20
+.addBox { padding:10px 80px;}   =20
+   =20
+   =20
+
+html, body {height:100%;}
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, form, fieldset, =
+button {margin:0;padding:0;line-height:1.4em;}
+body, h1, h2, h3, h4, h5, h6, th, td, input, select {margin:0;color:#2323;f=
+ont-size:12px; font-family:NanumGothic, Dotum, Arial;}
+ul, ol, dl, dt, dd {margin:0;padding:0;list-style:none;}
+p {text-align:justify;}
+img {border:none;vertical-align:top;}
+hr {display:none;}
+caption {position:relative;visibility:hidden;height:0;font-size:0;line-heig=
+ht:0;}
+a {text-decoration:none;}
+a:link,
+a:visited {color:#454545;}
+a:hover,
+a:focus {color:#ff6600;}
+
+
+
+.bold { font-weight:bold;}
+.txt_red { color:#045aad;}
+.txt_blue { color:#045aad;}
+.txt_14 {font-size:14px;}
+.al_center { text-align:center; padding:10px; margin-top:-14px;}
+
+
+h1  {margin:0;padding:0;}  =20
+h2 { font-weight:bold; letter-spacing: -1px; font-family:NanumGothic, Gulim=
+; margin-left: -15px;}=20
+</style>
+
+</head>
+<body>
+=20
+=20
+<!-- =EB=82=B4=EC=9A=A91 start-->
+<div id=3D"mWrap">
+        <div class=3D"header">
+            <h1 class=3D"logo"><img src=3D"https://urs.kaist.ac.kr/urs/imag=
+es/ko/mail/logo_n.png" alt=3D"URS=ED=86=B5=ED=95=A9=EC=98=88=EC=95=BD=EC=8B=
+=9C=EC=8A=A4=ED=85=9C" /></h1>
+            <h2 class=3D"title">[=EC=98=88=EC=95=BD=EB=B2=88=ED=98=B8:00364=
+5502]URS =EC=98=88=EC=95=BD =ED=99=95=EC=A0=95(Reservation Confirmation)</h=
+2>
+            <ul class=3D"cont1"><li class=3D"bold">=ED=86=B5=ED=95=A9 =EC=
+=98=88=EC=95=BD=EC=84=9C=EB=B9=84=EC=8A=A4(URS)=EB=A5=BC =EC=82=AC=EC=9A=A9=
+=ED=95=98=EC=97=AC =EC=A3=BC=EC=85=94=EC=84=9C =EA=B0=90=EC=82=AC=ED=95=A9=
+=EB=8B=88=EB=8B=A4</li>
+<li class=3D"txt_red  bold">=EA=B7=80=ED=95=98=EC=9D=98 =EC=98=88=EC=95=BD=
+=EC=9D=B4 =ED=99=95=EC=A0=95 =EB=90=98=EC=97=88=EC=9D=8C=EC=9D=84 =EC=95=8C=
+=EB=A0=A4=EB=93=9C=EB=A6=BD=EB=8B=88=EB=8B=A4. =EC=B7=A8=EC=86=8C=EC=A0=9C=
+=ED=95=9C=EC=8B=9C=EC=A0=90=EC=9D=84 =ED=99=95=EC=9D=B8=ED=95=98=EC=97=AC =
+=EC=A3=BC=EC=8B=AD=EC=8B=9C=EC=98=A4.</li>
+<li class=3D"bold">Thank you for the usage of Unified Reservation Service.<=
+br />=20
+<li class=3D"txt_red  bold"> Your subscription has been confirmed on URS. P=
+lease, check the Cancelling Time Limit of your reservation information belo=
+w.</li>=20
+            </ul> =20
+        </div>
+</div>     =20
+<!-- =EB=82=B4=EC=9A=A91 end-->=20
+=20
+=20
+<!-- [=EA=B3=B5=EA=B0=84=ED=99=9C=EC=9A=A91] =EC=B6=94=EA=B0=80 =EB=82=B4=
+=EC=9A=A9 =EC=9E=85=EB=A0=A5=EC=8B=9C =EC=A3=BC=EC=84=9D=EC=9D=84 =ED=95=B4=
+=EC=A0=9C=ED=95=98=EA=B3=A0 =EC=82=AC=EC=9A=A9=ED=95=A9=EB=8B=88=EB=8B=A4 -=
+->
+=09<div class=3D"add1">
+    =09<div class=3D"addBox">
+        </div>
+    </div>
+<!-- //[=EA=B3=B5=EA=B0=84=ED=99=9C=EC=9A=A91]=EC=B6=94=EA=B0=80 =EB=82=B4=
+=EC=9A=A9 =EC=9E=85=EB=A0=A5=EC=8B=9C =EC=A3=BC=EC=84=9D=EC=9D=84 =ED=95=B4=
+=EC=A0=9C=ED=95=98=EA=B3=A0 =EC=82=AC=EC=9A=A9=ED=95=A9=EB=8B=88=EB=8B=A4 -=
+->
+=20
+=20
+=20
+<!-- =EB=82=B4=EC=9A=A92 start--> =20
+       <div id=3D"mWrap2">  =20
+         <div class=3D"boxIn">
+        =09<ul>
+<li><span class=3D"bold">=EC=98=88=EC=95=BD=EB=B2=88=ED=98=B8(Reservation N=
+umber)</span>: 003645502</li>
+<li><span class=3D"bold">=EC=98=88=EC=95=BD=EB=8C=80=EC=83=81(object of res=
+ervation)</span>: =EC=84=9C=EC=B8=A1 =EC=8B=A4=EB=82=B4=EC=B2=B4=EC=9C=A1=
+=EA=B4=80(=EC=84=9C=EC=B8=A1 =EC=8B=A4=EB=82=B4=EC=B2=B4=EC=9C=A1=EA=B4=80(=
+=EC=9D=BC=EB=B0=98))</li>
+<li><span class=3D"bold">=EC=98=88=EC=95=BD=EC=9E=90(Subscriber)</span>: YO=
+URI MERZOUK(Tel:,0102502743)</li>
+<br>
+<li><span class=3D"bold">=EC=B2=B4=ED=81=AC=EC=9D=B8=EC=8B=9C=EA=B0=81(Chec=
+k-in Time)</span>: =EC=9D=BC, 22 12=EC=9B=94 2024 13:00</li>
+<li><span class=3D"bold">=EC=B2=B4=ED=81=AC=EC=95=84=EC=9B=83=EC=8B=9C=EA=
+=B0=81(Check-out Time)</span>: =EC=9D=BC, 22 12=EC=9B=94 2024 15:00</li>
+<li><span class=3D"bold">=EC=B7=A8=EC=86=8C=EC=A0=9C=ED=95=9C=EC=8B=9C=EC=
+=A0=90(Cancelling Time Limit)</span>: =ED=86=A0, 21 12=EC=9B=94 2024 15:00<=
+/li>
+<li><span class=3D"bold">=EC=9D=B4=EC=9A=A9=EC=9A=94=EA=B8=88(Usage Fee) </=
+span>:                0 KRW</li>
+<br>
+<li><span class=3D"bold">=ED=94=84=EB=A1=9C=EA=B7=B8=EB=9E=A8=EC=9A=B4=EC=
+=98=81=EC=9E=90(program manager)</span>: =EC=9D=B4=EA=B8=B8=EC=9E=AC(Tel:04=
+2-350-4812/010-4420-6188)</li>
+<li><span class=3D"bold">=EC=A3=BC=EC=9D=98=EC=82=AC=ED=95=AD(Remark)</span=
+>:=EC=B7=A8=EC=86=8C=EC=A0=9C=ED=95=9C=EC=8B=9C=EC=A0=90 =EC=9D=B4=ED=9B=84=
+ =EC=B7=A8=EC=86=8C =EB=98=90=EB=8A=94 =EB=AF=B8=EC=9D=B4=EC=9A=A9 =EC=8B=
+=9C =ED=8C=A8=EB=84=90=ED=8B=B0=EA=B0=80 =EB=B6=80=EA=B3=BC=EB=90=A0 =EC=88=
+=98 =EC=9E=88=EC=8A=B5=EB=8B=88=EB=8B=A4. (There can be penalty for cancell=
+ing your reservation after cancelling time limit.)</li>            </ul>
+        </div>
+    </div>
+<!-- =EB=82=B4=EC=9A=A92 end--> =20
+=20
+=20
+<!-- [=EA=B3=B5=EA=B0=84=ED=99=9C=EC=9A=A92] =EC=B6=94=EA=B0=80 =EB=82=B4=
+=EC=9A=A9 =EC=9E=85=EB=A0=A5=EC=8B=9C =EC=A3=BC=EC=84=9D=EC=9D=84 =ED=95=B4=
+=EC=A0=9C=ED=95=98=EA=B3=A0 =EC=82=AC=EC=9A=A9=ED=95=A9=EB=8B=88=EB=8B=A4 -=
+->
+=09<div class=3D"add2">
+    =09<div class=3D"addBox">
+
+        </div>
+    </div>
+<!-- //[=EA=B3=B5=EA=B0=84=ED=99=9C=EC=9A=A92]=EC=B6=94=EA=B0=80 =EB=82=B4=
+=EC=9A=A9 =EC=9E=85=EB=A0=A5=EC=8B=9C =EC=A3=BC=EC=84=9D=EC=9D=84 =ED=95=B4=
+=EC=A0=9C=ED=95=98=EA=B3=A0 =EC=82=AC=EC=9A=A9=ED=95=A9=EB=8B=88=EB=8B=A4 -=
+->
+=20
+  =20
+<!-- =EB=B0=94=EB=A1=9C=EA=B0=80=EA=B8=B0=EB=B2=84=ED=8A=BC start-->    =20
+    <div id=3D"mWrap3">
+      =09<div class=3D"btn">
+=09=09<a href=3D"https://urs.kaist.ac.kr/urs/" target=3D"_blank"><img src=
+=3D"https://urs.kaist.ac.kr/urs/images/ko/mail/btn_ursSite.gif" width=3D"15=
+6" height=3D"58" alt=3D"URS =EC=84=9C=EB=B9=84=EC=8A=A4 =EC=A0=91=EC=86=8D=
+=ED=95=98=EA=B8=B0(Connecting URS service)" /></a> <a href=3D"https://www.k=
+aist.ac.kr/site/map/index.html" target=3D"_blank"><img src=3D"https://urs.k=
+aist.ac.kr/urs/images/ko/mail/btn_campusMap.gif" width=3D"156" height=3D"58=
+" alt=3D"KAIST =EC=BA=A0=ED=8D=BC=EC=8A=A4 =EB=A7=B5(KAIST Campus Map)" /><=
+a>
+   =09</div>
+    </div>
+<!-- =EB=B0=94=EB=A1=9C=EA=B0=80=EA=B8=B0=EB=B2=84=ED=8A=BC end-->   =20
+   =20
+=20
+<!-- footer start-->=20
+=09<div class=3D"noti">
+   =09=09 <p class=3D"al_center"></p>
+    </div>
+    <div class=3D"copy">
+    =09<img src=3D"https://urs.kaist.ac.kr/urs/images/ko/mail/copy.gif" wid=
+th=3D"700" height=3D"62" />
+    </div>
+<!-- footer end-->=20
+</body>
+</html>
+

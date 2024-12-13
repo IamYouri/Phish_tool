@@ -1,0 +1,68 @@
+Received: from [10.162.225.112] (HELO smtp002-imp.gov-dooray.com)
+ ([10.162.225.112]) by smtp008.gov-dooray.com with SMTP id f2986f806745c020;
+ Tue, 26 Nov 2024 21:33:36 +0900
+DKIM-Signature: a=rsa-sha256;
+ b=TEU/eLUUIV5r1TleGH2prOSPV7rSzBCbN348WdVBpRHuQTV8jExItilmLVY5qaoNt35XGh5fnV
+  NgpzQdPtuoEorQ15Y2Ksjv7IafKoV/woPH/kwKqatsv2Qo89tusGFruCbO7BdMMAb7rSxCEMfqzv
+  w+63B6j/p/IG+NmD0kca73torG4OekpckuSQtXd7aeJ2xJHxXpdb6WofgDD8zTLW8+j+FN71neph
+  HtwbtreF7yxIf106I9gsdLZWnud4PS9F5XUHnh98DG5ZMqEJMBsdx8Smwap4p0oj9i5AO6Zr5TMt
+  zNGq/V+vJ38l29xAbp8dG681yva88yO58z4a/TAQ==;
+ c=relaxed/relaxed; s=dooray; d=kaist.ac.kr; v=1;
+ bh=DIxmez28g5JDbN3FGNTl9kfqqciPmfa6j2tE55ZcJIc=;
+ h=From:To:Subject:Message-ID;
+Received: from [211.56.7.120] (HELO kaistlms01.novalocal) ([211.56.7.120])
+ by smtp002-imp.gov-dooray.com with SMTP id 368dac066745c020; Tue, 26 Nov
+ 2024 21:33:36 +0900
+Date: Tue, 26 Nov 2024 21:33:36 +0900
+To: "YOURI MERZOUK" <ymerzouk@kaist.ac.kr>
+From: "Jun Han (via KLMS)" <jun.han@kaist.ac.kr>
+Reply-To: "Jun Han" <jun.han@kaist.ac.kr>
+Subject: [IS593][Urgent] W13 Announcement
+Message-ID: <6745c01fdca0e7.32364619@klms.kaist.ac.kr>
+X-Priority: 3
+X-Mailer: PHPMailer 6.1.3 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="b1_Vcg1gQpuA18A41j2IVDFFmbcCWXTKEVg2VIo55qf4"
+Authentication-Results: mx.dooray.com;
+  spf=unknown clientip=10.162.225.112 envelop.from=@kaist.ac.kr;
+  dkim=pass (signature was verified) header.d=kaist.ac.kr;
+  dmarc=pass header.from=kaist.ac.kr
+
+This is a multi-part message in MIME format.
+--b1_Vcg1gQpuA18A41j2IVDFFmbcCWXTKEVg2VIo55qf4
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+
+Hi class,=C2=A0As I mentioned to some of you during the Security@KAIST Fair
+today, I started feeling quite sick since last night. I was hoping that I
+would get better during the day, but my condition is worsening. Hence, I am
+afraid I will have to cancel tomorrow's class. However, I will provide a
+make-up lecture soon.=C2=A0In the mean time, let's continue our lecture on
+Monday, Dec. 2 (W14), where we will continue our discussion on the
+Smartphone-based Counterfeit Detection. Also, Team 6 (Byungsoo) will
+present his paper presentation on CapCam paper.=C2=A0I'm so sorry about thi=
+s
+sudden change. Thanks for your understanding.=C2=A0Jun
+
+--b1_Vcg1gQpuA18A41j2IVDFFmbcCWXTKEVg2VIo55qf4
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<p dir=3D"ltr" style=3D"text-align: left;"><p dir=3D"ltr">Hi class,&nbsp;</=
+p><p dir=3D"ltr"><br></p><p dir=3D"ltr">As I mentioned to some of you durin=
+g the Security@KAIST Fair today, I started feeling quite sick since last ni=
+ght. I was hoping that I would get better during the day, but my condition =
+is worsening. Hence, I am afraid I will have to <strong>cancel tomorrow's c=
+lass</strong>. However, I will <strong>p</strong><strong>rovide a make-up l=
+ecture soon</strong>.&nbsp;<br><br>In the mean time, let's continue our lec=
+ture on Monday, Dec. 2 (W14), where we will continue our discussion on the =
+Smartphone-based Counterfeit Detection. Also, Team 6 (Byungsoo) will presen=
+t his paper presentation on CapCam paper.&nbsp;</p><p dir=3D"ltr"><br></p><=
+p dir=3D"ltr">I'm so sorry about this sudden change. Thanks for your unders=
+tanding.&nbsp;<br><br>Jun</p><br></p>
+
+--b1_Vcg1gQpuA18A41j2IVDFFmbcCWXTKEVg2VIo55qf4--
+
+

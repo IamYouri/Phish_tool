@@ -1,0 +1,81 @@
+Received: from [10.162.225.39] (HELO send004.gov-dooray.com)
+ ([10.162.225.39]) by smtp004.gov-dooray.com with SMTP id dbbc7f9766b41891;
+ Thu, 08 Aug 2024 10:00:01 +0900
+DKIM-Signature: a=rsa-sha256;
+ b=Pf4+tkZ9HFSj0vODjlt17d+a36P5zc5Xn7DUsjaMA4I15W43U/y9rcekeUQgr9wXikAzGjGA06
+  DTbrNOLQYRK5sLp50enD6Pr0jFYaK8uwuRfgCQzEJfOJruCYRTUp86LmJR6FxM5bX/J56fh1m2X7
+  Pd7161HgZsBEv7kxLefkpsQlCP1lyTK1OgEdAgpdje3GprE9xFNABZeOhH4LKnF5Q7K/p6BnxyFp
+  kIVWJcrCqOziaq/v2QK9JnBpCxGXfEt2ZicgVsj0rhrLZ/LrVAHJdzJ5Hy672Q0J1b72kvX9EZXJ
+  U/5uC4IdotWAWuUFSv8497fXKhZjlN8ke2IKaGQw==;
+ c=relaxed/relaxed; s=dooray; d=kaist.ac.kr; v=1;
+ bh=jl967VNFLzdQZsyx+vicXkradjJNjvaOEaRJS6c9YlY=;
+ h=From:To:Subject:Message-ID;
+Received: from [143.248.234.160, 10.162.224.207] (HELO 143.248.234.160,
+ 10.162.224.207) ([143.248.234.160, 10.162.224.207]) by
+ send004.gov-dooray.com with SMTP id 9b3afc6466b41891; Thu, 08 Aug 2024
+ 10:00:01 +0900
+From: =?UTF-8?B?7ZWZ67aA7LSd7ZWZ7IOd7ZqM?= <kaistusc@kaist.ac.kr>
+To: =?UTF-8?B?7ZWZ7IOdI+yghOyytCjsmbjqta3snbgp?= <gr_stud.en@kaist.ac.kr>
+Message-ID: <td5frlcgee42.td5frlcjcy44.g3@dooray.com>
+Subject: [Undergraduate Association] Survey for Improving Convenience of
+ On-Campus Store Usage
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_565059_1986256686.1723061318326"
+X-Dsn-Request: true
+X-Dooray-Agent: mail-api
+X-Dooray-Mail-Id: 3865111749876518642
+Importance: Normal
+X-Priority: Normal
+X-MSMail-Priority: Normal
+X-Dooray-Attached: c3+LUOpPU/IB7Wl+oemm0lw5HiI/bJHHYClX72L8E3o=
+Sender: "=?UTF-8?B?7ZWZ67aA7LSd7ZWZ7IOd7ZqM?=" <kaistusc@kaist.ac.kr>
+Date: Thu, 08 Aug 2024 10:00:00 +0900 (KST)
+Authentication-Results: mx.dooray.com;
+  spf=pass clientip=10.162.225.39 envelop.from=@kaist.ac.kr;
+  dkim=pass (signature was verified) header.d=kaist.ac.kr;
+  dmarc=pass header.from=kaist.ac.kr
+
+------=_Part_565059_1986256686.1723061318326
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: base64
+
+SGVsbG8sIHRoaXMgaXMgdGhlIDM1dGggS0FJU1QgVW5kZXJncmFkdWF0ZSBBc3NvY2lhdGlvbiDw
+n4yfR0xPV/CfjJ8uSW4gb3JkZXIgdG8gaW1wcm92ZSB0aGUgY29udmVuaWVuY2Ugb2YgdXNpbmcg
+dGhlIG9uLWNhbXB1cyBzdG9yZXMsIPCfjJ9HTE9X8J+MnyBpcyBjdXJyZW50bHkgd29ya2luZyB3
+aXRoIHRoZSBvcGVyYXRvcnMgb2YgdGhlIHN0b3JlcyB0bzoxLiBFeHBhbmQgdGhlIHJhbmdlIG9m
+IHByb2R1Y3RzIHNvbGQsIGFuZCAyLiBJbnRyb2R1Y2UgcmVmcmlnZXJhdGVkIHJlYWR5LXRvLWVh
+dCBtZWFscyBzdWNoIGFzIHRyaWFuZ3VsYXIga2ltYmFwIGFuZCBoYW1idXJnZXJzLk9uIHRoaXMg
+YWNjb3VudCwgd2UgYXJlIGNvbmR1Y3RpbmcgYSBzdXJ2ZXkgb24gdGhlIHByb2R1Y3RzL3Byb2R1
+Y3QgY2F0ZWdvcmllcyB3aXNoZWQgdG8gYmUgZXhwYW5kZWQsIHByZWZlcnJlZCB0eXBlcyBvZiBy
+ZWFkeS10by1lYXQgbWVhbHMsIGFuZCBhbnkgc3VnZ2VzdGlvbnMgb24gc3RvcmUgdXNhZ2Uu4paq
+IFN1cnZleSBMaW5rOiZuYnNwO1N1cnZleSBmb3IgSW1wcm92aW5nIENvbnZlbmllbmNlIG9mIE9u
+LUNhbXB1cyBTdG9yZSBVc2FnZSBodHRwczovL2Zvcm1zLmdsZS9DdXp4ajdMdm1SZHFXWjFQQQri
+lqogU3VydmV5IERlYWRsaW5lOiB+IDIwMjQuIDguIDEzLihUdWUpIDIzOjU5VGhhbmsgeW91LlVu
+ZGVyZ3JhZHVhdGUgQXNzb2NpYXRpb24gJmx0O0dMT1cmZ3Q7CgoK
+------=_Part_565059_1986256686.1723061318326
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: base64
+
+PGRpdiBzdHlsZT0iZm9udC1mYW1pbHk6IHN5c3RlbS11aTsgZm9udC1zaXplOiAxNHB4Ij48ZGl2
+PjxzcGFuIHN0eWxlPSJmb250LWZhbWlseTogc3lzdGVtLXVpOyI+PHNwYW4gc3R5bGU9ImZvbnQt
+c2l6ZTogMTRweDsiPkhlbGxvLCB0aGlzIGlzIHRoZSAzNXRoIEtBSVNUIFVuZGVyZ3JhZHVhdGUg
+QXNzb2NpYXRpb24g8J+Mn0dMT1fwn4yfLjxicj48YnI+SW4gb3JkZXIgdG8gaW1wcm92ZSB0aGUg
+Y29udmVuaWVuY2Ugb2YgdXNpbmcgdGhlIG9uLWNhbXB1cyBzdG9yZXMsIPCfjJ9HTE9X8J+MnyBp
+cyBjdXJyZW50bHkgd29ya2luZyB3aXRoIHRoZSBvcGVyYXRvcnMgb2YgdGhlIHN0b3JlcyB0bzo8
+YnI+PGJyPjEuIEV4cGFuZCB0aGUgcmFuZ2Ugb2YgcHJvZHVjdHMgc29sZCwgYW5kIDIuIEludHJv
+ZHVjZSByZWZyaWdlcmF0ZWQgcmVhZHktdG8tZWF0IG1lYWxzIHN1Y2ggYXMgdHJpYW5ndWxhciBr
+aW1iYXAgYW5kIGhhbWJ1cmdlcnMuPGJyPjxicj5PbiB0aGlzIGFjY291bnQsIHdlIGFyZSBjb25k
+dWN0aW5nIGEgc3VydmV5IG9uIHRoZSBwcm9kdWN0cy9wcm9kdWN0IGNhdGVnb3JpZXMgd2lzaGVk
+IHRvIGJlIGV4cGFuZGVkLCBwcmVmZXJyZWQgdHlwZXMgb2YgcmVhZHktdG8tZWF0IG1lYWxzLCBh
+bmQgYW55IHN1Z2dlc3Rpb25zIG9uIHN0b3JlIHVzYWdlLjxicj48YnI+4paqIFN1cnZleSBMaW5r
+OiZuYnNwOzxhIGhyZWY9Imh0dHBzOi8vZm9ybXMuZ2xlL0N1enhqN0x2bVJkcVdaMVBBIiByZWw9
+Im5vb3BlbmVyIG5vcmVmZXJyZXIiIHRhcmdldD0iX2JsYW5rIj5TdXJ2ZXkgZm9yIEltcHJvdmlu
+ZyBDb252ZW5pZW5jZSBvZiBPbi1DYW1wdXMgU3RvcmUgVXNhZ2U8L2E+PC9zcGFuPjwvc3Bhbj48
+L2Rpdj48ZGl2PjxzcGFuIHN0eWxlPSJmb250LWZhbWlseTogc3lzdGVtLXVpOyI+PHNwYW4gc3R5
+bGU9ImZvbnQtc2l6ZTogMTRweDsiPuKWqiBTdXJ2ZXkgRGVhZGxpbmU6IH4gMjAyNC4gOC4gMTMu
+KFR1ZSkgMjM6NTk8YnI+PGJyPlRoYW5rIHlvdS48YnI+PGJyPlVuZGVyZ3JhZHVhdGUgQXNzb2Np
+YXRpb24gJmx0O0dMT1cmZ3Q7PC9zcGFuPjwvc3Bhbj48L2Rpdj48ZGl2Pjxicj48L2Rpdj48IS0t
+IGJlZ2luIHNpZ25hdHVyZSAtLT48IS0tIGVuZCBzaWduYXR1cmUgLS0+PC9kaXY+
+------=_Part_565059_1986256686.1723061318326--
+

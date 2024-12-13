@@ -1,0 +1,216 @@
+Received: from [10.162.225.112] (HELO smtp002-imp.gov-dooray.com)
+ ([10.162.225.112]) by smtp006.gov-dooray.com with SMTP id 687b8afc6704bf82;
+ Tue, 08 Oct 2024 14:13:38 +0900
+DKIM-Signature: a=rsa-sha256;
+ b=CO2+7AEVqi+o6+2nphD965Rs08pHCV0QdHz3Rcc7wSSvs/PCf7A/2pcP5aUv1/dtSPJg5uUL+H
+  r8qq5vqOobd87yqSisEZD+V2iK+HorbU7+cgWDoADYwzHLW+i1L7NERM8xntiYBwvQh8aXnFD5ls
+  uRHdDpUf1QzLl7weiPT/pj10H3ul/6oQB+4ogR+Uz+x6GlurmpEKuHesDQmj14F84w/xgT/vglKB
+  qXS+Qxj2CwerS0mUcO8mGBEe4CJJQIcG4lEfiAjx3/6JQ+kaU9H5Y0cuFtIIbb1Uih6hEssbgnR7
+  xf+AN9y36n4nnPyQkaiFaf4gAWyKX6kLNQDDoRNg==;
+ c=relaxed/relaxed; s=dooray; d=kaist.ac.kr; v=1;
+ bh=V5MJWJLr9eUejzG3AeSozacIriewOcqW2oxYcc6JU44=;
+ h=From:To:Subject:Message-ID;
+Received: from [143.248.105.68] (HELO kdswas1) ([143.248.105.68]) by
+ smtp002-imp.gov-dooray.com with SMTP id 717877d36704bf81; Tue, 08 Oct 2024
+ 14:13:37 +0900
+From: =?UTF-8?B?64yA7ZWZ7JuQ7IOd7Zmc6rSA7J6Q7LmY7ZqM?= <gsdc@kaist.ac.kr>
+To: ymerzouk@kaist.ac.kr
+Message-ID: <1821398899.38802.1728364417966.JavaMail.jeus@kdswas1>
+Subject: =?UTF-8?Q?[GSDC]_(2024?=
+ =?UTF-8?Q?=EB=85=84_=ED=95=98=EB=B0=98=EA=B8=B0)?=
+ =?UTF-8?Q?_=EC=83=9D=ED=99=9C=EA=B4=80_=EC=97=90=EB=84=88?=
+ =?UTF-8?Q?=EC=A7=80_=EC=82=AC=EC=9A=A9_=EC=A4=84?=
+ =?UTF-8?Q?=EC=9D=B4=EA=B3=A0_=EC=84=A0=EB=AC=BC=EB=B0=9B?=
+ =?UTF-8?Q?=EC=9E=90=F0=9F=8E=81_/_Let's_r?=
+ =?UTF-8?Q?educe_dormitory_energy_usage_and_receive_a_gift=F0=9F=8E=81!?=
+MIME-Version: 1.0
+Content-Type: text/html;charset=euc-kr
+Content-Transfer-Encoding: quoted-printable
+Authentication-Results: mx.dooray.com;
+  spf=unknown clientip=10.162.225.112 envelop.from=@kaist.ac.kr;
+  dkim=pass (signature was verified) header.d=kaist.ac.kr;
+  dmarc=pass header.from=kaist.ac.kr
+
+<p><span style=3D"font-size:20px"><strong>=BF=A1=B3=CA=C1=F6=C0=FD=BE=E0, =
+=BF=D6 =C7=D8=BE=DF=C7=CF=B3=AA=BF=E4?</strong></span></p>
+
+<p><span style=3D"color:#c0392b"><strong>2022=B3=E2=B5=B5 =B4=EB=BA=F1 =C3=
+=D6=B1=D9 2=B3=E2 =BB=E7=C0=CC =C0=FC=B1=E2=BF=E4=B1=DD=C0=BA =BE=E0 35%, =
+=B0=A1=BD=BA=BF=E4=B1=DD=C0=BA =BE=E0 30% =BB=F3=BD=C2=C7=CF=B8=E9=BC=AD =
+=BB=FD=C8=B0=B0=FC=C0=C7&nbsp;=BC=F6=B5=B5=B1=A4=BF=AD=BA=F1 =BA=CE=B4=E3=
+=C0=CC =C5=A9=B0=D4 =C1=F5=B0=A1=C7=DF=BD=C0=B4=CF=B4=D9</strong>.</span> =
+=BB=FD=C8=B0=B0=FC =BF=EE=BF=B5=BA=F1=BF=EB =C1=DF =C0=CE=B0=C7=BA=F1 (2=B3=
+=E2 =C0=FC, =BE=E0 39%) =B4=D9=C0=BD=C0=B8=B7=CE =B0=A1=C0=E5 =B8=B9=C0=BA =
+=BA=F1=C1=DF=C0=BB =C2=F7=C1=F6=C7=CF=B0=ED =C0=D6=B4=C2 =BC=F6=B5=B5=B1=A4=
+=BF=AD=BA=F1 (2=B3=E2 =C0=FC, =BE=E0 32%) =B0=A1 =C5=A9=B0=D4 =C1=F5=B0=A1=
+=C7=D4=BF=A1 =B5=FB=B6=F3&nbsp;2023=B3=E2 =B0=A1=C0=BB=C7=D0=B1=E2=BA=CE=C5=
+=CD 2024=B3=E2 =BA=BD=C7=D0=B1=E2=B1=EE=C1=F6 =BB=FD=C8=B0=B0=FC=BA=F1=B0=
+=A1 =BE=E0 10% =B0=A1=B7=AE =BC=F8=C2=F7=C0=FB=C0=B8=B7=CE =C0=CE=BB=F3 =B5=
+=C7=BE=FA=C0=BD=BF=A1=B5=B5 =BA=D2=B1=B8=C7=CF=B0=ED&nbsp;=C7=D0=BB=FD=BA=
+=B9=C1=F6=B8=A6 =C1=A6=B0=F8=C7=CF=B4=C2 =B5=A5 =B9=AE=C1=A6=B0=A1 =BB=FD=
+=B1=E2=B0=ED =C0=D6=BD=C0=B4=CF=B4=D9.&nbsp;=C7=D0=BB=FD=BB=FD=C8=B0=C6=C0=
+=BF=A1=BC=AD=B4=C2 =C7=D0=BB=FD =BA=B9=C1=F6&nbsp;=BF=B9=BB=EA=C0=BB&nbsp;=
+=C0=AF=C1=F6=C7=CF=B1=E2 =C0=A7=C7=D8 =C5=EB=C7=D5 =BB=E7=B0=A8=BD=C7 =BF=
+=EE=BF=B5=C0=B8=B7=CE =C0=CE=B0=C7=BA=F1=B8=A6 =C0=FD=B0=A8(2022=B3=E2 =C3=
+=CA =B4=EB=BA=F1 20=B8=ED =C0=DA=BF=AC =B0=A8=BC=D2)=C7=CF=B0=ED, =C2=FC=BF=
+=A9=C0=B2=C0=CC =B3=B7=C0=BA =BB=E7=BE=F7(=BF=B9: =BD=C5=B9=AE =B1=B8=B5=B6=
+,&nbsp;=C4=C9=C0=CC=BA=ED TV&nbsp;=C7=D8=C1=A6)=C0=BB =C1=DF=B4=DC=C7=CF=B0=
+=ED,&nbsp;=B1=B3=C3=BC =C1=D6=B1=E2=B0=A1 =C0=E6=C0=BA =C0=C7=C0=DA =B9=D7 =
+=B8=C5=C6=AE=B8=AE=BD=BA =B1=B8=C0=D4=C3=B3 =B4=D9=B0=A2=C8=AD,&nbsp;=BF=C0=
+=BF=B0=B5=C8 =C0=C7=C0=DA =B1=B3=C3=BC =B4=EB=BD=C5 =BC=BC=C3=B4 =C0=DB=BE=
+=F7 =B5=EE=C0=BB =C5=EB=C7=D8 =BF=B9=BB=EA =C0=FD=B0=A8=C0=C7&nbsp;=B3=EB=
+=B7=C2=C0=BB =B1=E2=BF=EF=BF=B4=C1=F6=B8=B8, =BF=A9=C0=FC=C8=F7 =C1=F6=BC=
+=D3=C0=FB=C0=CE =C0=FB=C0=DA=B0=A1 =B9=DF=BB=FD=C7=CF=B0=ED =C0=D6=B4=C2 =
+=BB=F3=C8=B2=C0=D4=B4=CF=B4=D9. =C0=CC=B7=CE =C0=CE=C7=D8 =C7=D0=BF=EC=BA=
+=D0=B5=E9=C0=CC =BF=F8=C7=CF=B4=C2 =BD=C3=BC=B3 =B0=B3=BC=B1=C0=CC =C0=FB=
+=B1=D8=C0=FB=C0=B8=B7=CE =C0=CC=B7=E7=BE=EE=C1=F6=C1=F6 =B8=F8=C7=CF=B0=ED =
+=C0=D6=C0=B8=B8=E7,&nbsp;<span style=3D"color:#c0392b"><strong>=C7=D0=BF=EC=
+ =BF=A9=B7=AF=BA=D0=B2=B2 =C1=A6=B0=F8=B5=C7=BE=EE=BE=DF =C7=D2 =BA=B9=C1=
+=F6=BF=CD =C7=FD=C5=C3=C0=CC =C1=A1=C1=A1 =C1=D9=BE=EE=B5=E9=B0=ED =C0=D6=
+=BD=C0=B4=CF=B4=D9</strong>.&nbsp;</span>=C0=CC=BF=A1&nbsp;=C7=D0=BB=FD =BF=
+=A9=B7=AF=BA=D0=C0=C7 =C0=DA=B9=DF=C0=FB=C0=CE =BF=A1=B3=CA=C1=F6 =C0=FD=BE=
+=E0 =B3=EB=B7=C2=C0=BB =C5=EB=C7=D8 =BA=D2=C7=CA=BF=E4=C7=D1 =B3=B6=BA=F1=
+=B8=A6 =C1=D9=C0=CC=B0=ED, =C1=F6=BC=D3 =B0=A1=B4=C9=C7=D1 =C8=AF=B0=E6 =BA=
+=B8=C0=FC=B0=FA =BB=FD=C8=B0=B0=FC =C8=AF=B0=E6 =B0=B3=BC=B1=BF=A1 =C7=D4=
+=B2=B2 =B5=BF=C2=FC=C7=D8 =C1=D6=BD=C3=B1=E6 =BA=CE=C5=B9=B5=E5=B8=B3=B4=CF=
+=B4=D9.</p>
+<br />
+<span style=3D"font-size:20px"><strong>=BB=FD=C8=B0=B0=FC =BF=A1=B3=CA=C1=
+=F6 =C0=FD=BE=E0 =C4=B7=C6=E4=C0=CE</strong></span>
+
+<ul>
+=09<li><strong>=B1=E2=B0=A3</strong>: 10=BF=F9 1=C0=CF=BA=CE=C5=CD 1=BF=F9 =
+31=C0=CF=B1=EE=C1=F6</li>
+=09<li><strong>=B8=F1=C7=A5</strong>: =BF=EC=B8=AE =BB=FD=C8=B0=B0=FC =BF=
+=A1=B3=CA=C1=F6 =BB=E7=BF=EB=B7=AE 10% =B0=A8=C3=E0</li>
+=09<li><span style=3D"color:#c0392b"><strong>=B4=DE=BC=BA =BA=B8=BB=F3: </s=
+trong>=B8=F1=C7=A5=B8=A6 =B4=DE=BC=BA=C7=D1 =BB=FD=C8=B0=B0=FC =C7=D0=BB=FD=
+=B5=E9=BF=A1=B0=D4 =C3=DF=C3=B7=C0=BB =C5=EB=C7=D8 1=B8=B8=BF=F8 =BB=F3=B4=
+=E7=C0=C7 =BF=DC=BD=C4=BB=F3=C7=B0=B1=C7 =C1=A6=B0=F8 (00=B8=ED)</span></li=
+>
+</ul>
+<br />
+<span style=3D"font-size:20px"><strong><strong>=BB=FD=C8=B0=B0=FC =C0=FC=B1=
+=E2 =C0=FD=BE=E0 =BD=BA=C6=BC=C4=BF =B9=E8=BA=D0 =BE=C8=B3=BB</strong></str=
+ong></span><br />
+=C0=FC=B1=E2 =C0=FD=BE=E0 =B9=E6=B9=FD=C0=CC =B4=E3=B1=E4 =BD=BA=C6=BC=C4=
+=BF=B8=A6 =B9=E8=C6=F7=C7=D5=B4=CF=B4=D9.&nbsp;=BB=FD=C8=B0=B0=FC =C8=A3=BD=
+=C7 =B3=BB=BF=A1 =BA=CE=C2=F8=C7=CF=B0=ED =BF=A1=B3=CA=C1=F6 =C0=FD=BE=E0 =
+=BD=C7=C3=B5=C7=CF=B1=E2 =C7=D4=B2=B2=C7=D8=BF=E4.
+<ul>
+=09<li><strong>=C0=CF=BD=C3: 10=BF=F9 7=C0=CF =BF=F9=BF=E4=C0=CF=BA=CE=C5=
+=CD</strong></li>
+=09<li><strong>=BC=F6=B7=C9 =C0=E5=BC=D2: =B0=A2 =BB=FD=C8=B0=B0=FC =BB=E7=
+=B0=A8=BD=C7&nbsp;</strong></li>
+</ul>
+<br />
+<span style=3D"font-size:20px"><strong><strong>=B4=DC=BF=AD =BB=C8=BB=C8=C0=
+=CC =B9=E8=BA=D0 =BE=C8=B3=BB</strong></strong></span><br />
+=C8=A3=BD=C7 =B3=BB =BF=AD =BC=D5=BD=C7=C0=BB =C1=D9=C0=CC=B1=E2 =C0=A7=C7=
+=D8 =B4=DC=BF=AD =BB=C8=BB=C8=C0=CC=B8=A6 =B9=E8=C6=F7=C7=D5=B4=CF=B4=D9. =
+=C0=DA=BC=BC=C7=D1 =B3=BB=BF=EB=C0=BA =C3=DF=C8=C4 =B8=DE=C0=CF=C0=BB =C5=
+=EB=C7=D8 =B0=F8=C1=F6=B5=E5=B8=B1 =BF=B9=C1=A4=C0=CC=BF=C0=B4=CF =B8=B9=C0=
+=BA =B0=FC=BD=C9 =BA=CE=C5=B9=B5=E5=B8=B3=B4=CF=B4=D9.<br />
+<br />
+<span style=3D"font-size:20px"><strong>=BF=EC=B8=AE =BB=FD=C8=B0=B0=FC =BF=
+=A1=B3=CA=C1=F6 =BB=E7=BF=EB=B7=AE=C0=BA?</strong></span><br />
+=BE=C6=B7=A1 =B8=B5=C5=A9=BF=A1=BC=AD =C8=AE=C0=CE=B0=A1=B4=C9=C7=D5=B4=CF=
+=B4=D9. (=C0=FC=BF=F9 =BB=E7=BF=EB=B7=AE=C0=BA =B8=C5=BF=F9 =C1=DF=BC=F8 =
+=BE=F7=B5=A5=C0=CC=C6=AE=B5=CB=B4=CF=B4=D9.)<br />
+<a href=3D"https://docs.google.com/spreadsheets/d/1YL2jcPnm2dukTSx2U1V8d8O6=
+pS2vL5xy/edit?usp=3Dsharing&amp;ouid=3D116644054592487161018&amp;rtpof=3Dtr=
+ue&amp;sd=3Dtrue">2024=B3=E2=B5=B5 =C7=CF=B9=DD=B1=E2 =BB=FD=C8=B0=B0=FC =
+=BF=A1=B3=CA=C1=F6 =BB=E7=BF=EB=B7=AE</a><br />
+<br />
+=B4=EB=C7=D0=BF=F8=BB=FD=C8=B0=B0=FC=C0=DA=C4=A1=C8=B8 =B5=E5=B8=B2.<br />
+-----------------------------------------<br />
+<br />
+<span style=3D"font-size:20px"><strong>Why should we save energy?</strong><=
+/span>
+
+<p><span style=3D"color:#c0392b"><strong>Over the past two years, utility c=
+osts have risen sharply, with electricity prices increasing by 35% and gas =
+prices by 30%.</strong></span> The rising cost of utilities, which now acco=
+unt for a significant portion of the dormitory operating expenses (32% as o=
+f two years ago), continues to place financial strain on our dormitory mana=
+gement.&nbsp;Despite a gradual increase of approximately 10% in dormitory f=
+ees from the Fall 2023 semester to the Spring 2024 semester, challenges hav=
+e arisen in maintaining student welfare due to a significant rise in utilit=
+y expenses, which make up the second-largest portion of dormitory operating=
+ costs (around 32% two years ago), following personnel expenses (around 39%=
+ two years ago).&nbsp;The Student Life team has made various efforts to red=
+uce operating costs while maintaining student welfare, such as reducing sta=
+ff (20 members through natural attrition), discontinuing low-participation =
+programs like newspaper subscriptions and cable TV services, diversifying s=
+uppliers for frequently replaced items like chairs and mattresses, and opti=
+ng to clean rather than replace furniture when possible. Despite these meas=
+ures, ongoing deficits continue to pose challenges, making it difficult to =
+fully address needed facility improvements, <span style=3D"color:#c0392b"><=
+strong>which has gradually impacted the welfare and benefits available to r=
+esidents</strong></span>. To help alleviate this situation, we kindly ask f=
+or your voluntary participation in energy conservation. By reducing unneces=
+sary energy waste, we can work together toward more sustainable environment=
+al practices and improve the living environment in our dormitories.</p>
+<br />
+<span style=3D"font-size:20px"><strong>Dormitory energy conservation campai=
+gn</strong></span>
+
+<ul>
+=09<li><strong>Period</strong>: October 1 to January 31</li>
+=09<li><strong>Goal</strong>: 10% reduction in dormitory energy consumption=
+</li>
+=09<li><span style=3D"color:#c0392b"><strong>Reward</strong>: Residents of =
+dormitories that achieve the goal will have the chance to win a dining vouc=
+her worth 10,000 KRW through a lottery (number of winners: 00).</span></li>
+</ul>
+<br />
+<span style=3D"font-size:20px"><strong>Electricity saving sticker distribut=
+ion notice&nbsp;</strong></span>
+
+<p>Stickers containing tips on how to save electricity in the dormitory wil=
+l be distributed. Please attach the sticker inside your dormitory room and =
+join us in practicing energy saving!</p>
+
+<ul>
+=09<li><strong>Date: Starting from Monday, October 7th</strong></li>
+=09<li><strong>Pick-up Location: Dormitory Supervisor&#39;s Office in each =
+dormitory</strong></li>
+</ul>
+<br />
+<strong><span style=3D"font-size:20px">Distribution of Insulation Film</spa=
+n></strong><br />
+To reduce heat loss in dormitory rooms, window insulation films will be dis=
+tributed. Further details will be provided via email.&nbsp;We kindly encour=
+age your active interest and participation.
+<p><br />
+<span style=3D"font-size:20px"><strong>Our dormitory&#39;s energy consumpti=
+on</strong></span><br />
+Our dormitory&#39;s energy consumption can be checked at the link below. (T=
+he previous month&#39;s usage will be updated by mid-month.)<br />
+<a href=3D"https://docs.google.com/spreadsheets/d/1YL2jcPnm2dukTSx2U1V8d8O6=
+pS2vL5xy/edit?usp=3Dsharing&amp;ouid=3D116644054592487161018&amp;rtpof=3Dtr=
+ue&amp;sd=3Dtrue">Dormitory Energy Consumption for the Second Half of 2024<=
+/a></p>
+<br />
+Best regards,<br />
+GSDC<br />
+<br />
+<img alt=3D"https://lh3.googleusercontent.com/vPMmF87ipykt-wJLUuPaIIZj4vTDY=
+xlM4FgP-OgNuSDzCDnzFrNaP3FkPAggg2MIMlA4In85xGnryjiJE5AdrMS7FeKgd7aoTDI-b4s2=
+b-ghGv8LgVv5xQ1u0YXx7yaWHVRHRQfM" src=3D"https://lh3.googleusercontent.com/=
+vPMmF87ipykt-wJLUuPaIIZj4vTDYxlM4FgP-OgNuSDzCDnzFrNaP3FkPAggg2MIMlA4In85xGn=
+ryjiJE5AdrMS7FeKgd7aoTDI-b4s2b-ghGv8LgVv5xQ1u0YXx7yaWHVRHRQfM" /><br />
+<strong>=B4=EB=C7=D0=BF=F8=BB=FD=C8=B0=B0=FC=C0=DA=C4=A1=C8=B8&nbsp;(Gradua=
+te Student Dormitory Council)<br />
+=C0=CC=B8=DE=C0=CF (E-mail)</strong>&nbsp;gsdc@kaist.ac.kr<br />
+<strong>=C8=A8=C6=E4=C0=CC=C1=F6&nbsp;(Homepage)</strong>&nbsp;<a href=3D"h=
+ttps://nkds.kaist.ac.kr/council/council/councilIntro.do" target=3D"_blank">=
+https://kds.kaist.ac.kr/council/council/councilIntro.do</a><br />
+*&nbsp;=BB=FD=C8=B0=B0=FC&nbsp;=B0=FC=B7=C3&nbsp;=C1=A6=BE=C8=C0=CC=B3=AA&n=
+bsp;=C4=DA=B8=E0=C6=AE=B0=A1&nbsp;=C0=D6=C0=B8=BD=C3=B4=D9=B8=E9,&nbsp;=BE=
+=C6=B7=A1&nbsp;=B8=B5=C5=A9=BF=A1&nbsp;=C7=C7=B5=E5=B9=E9=C0=BB&nbsp;=B3=B2=
+=B0=DC=C1=D6=BC=BC=BF=E4.<br />
+* If you have any suggestions or comments regarding dormitory, please leave=
+ feedback on the link below&nbsp;<a href=3D"https://forms.gle/LSarxnAZmh5Yr=
+Aom7" target=3D"_blank">https://forms.gle/LSarxnAZmh5YrAom7</a>&nbsp;
+

@@ -1,0 +1,68 @@
+Received: from [10.162.225.38] (HELO send003.gov-dooray.com)
+ ([10.162.225.38]) by smtp003.gov-dooray.com with SMTP id 646f994f6698befe;
+ Thu, 18 Jul 2024 16:06:38 +0900
+DKIM-Signature: a=rsa-sha256;
+ b=diAFFd7ilg1aI9jqxA1L80AtogVgCQFMNC73AXJwRMiy7QxRNHuo4fJ8pldUMsVll5liSMkOqx
+  xAZZRPI/kNKm31wrHgn4dIKk49Zi/LSs0re2SbVeQyOqHN55i510WL4yXudCBpMwilu+70AP68T5
+  KlgAxLnWXh3gHjUy4EHYBdTROomLmEoVzzqdIOh4Vl572ZNl2L60yWk0tX/CByB185UXo7RajNZI
+  xAVDSL7IlfmGJf+ttX2TatGDygk14zyI56RB+bFQMCwvnlFqu4NsgbBb0EPpUOe/xnwlKJoENbO6
+  X0fnDEKvIWnREwumD2noTxrpnPDlpoFqnEExNb3g==;
+ c=relaxed/relaxed; s=dooray; d=kaist.ac.kr; v=1;
+ bh=czSNlK/NbCH8TurlXXgq16mlRJ3RoDjM70Tu+VMJrYg=;
+ h=From:To:Subject:Message-ID;
+Received: from [143.248.109.220, 10.162.229.105] (HELO 143.248.109.220,
+ 10.162.229.105) ([143.248.109.220, 10.162.229.105]) by
+ send003.gov-dooray.com with SMTP id d7d1775a6698b805; Thu, 18 Jul 2024
+ 15:36:53 +0900
+From: CT Press <ctpress@kaist.ac.kr>
+To: =?UTF-8?B?6rWQ7IiYI+yghOyytA==?= <gr_prof@kaist.ac.kr>, 
+	=?UTF-8?B?7ZWZ7IOdI+yghOyytA==?= <gr_stud@kaist.ac.kr>, 
+	=?UTF-8?B?7KeB7JuQI+yghOyytA==?= <gr_staff@kaist.ac.kr>
+Message-ID: <t92opxhxkpjf.t92opxhzmfgr.g3@dooray.com>
+Subject: =?UTF-8?Q?KAIST_=EB=AC=B8=ED=99=94=EA=B8=B0=EC=88=A0?=
+ =?UTF-8?Q?=EB=8C=80=ED=95=99=EC=9B=90_=EC=86=8C=EC=8B=9D=EC=A7=80_-_?=
+ =?UTF-8?Q?CT_Press_-_2024=EB=85=84_=EC=83=81=EB=B0=98=EA=B8=B0?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_793310_423160117.1721284572483"
+X-Dsn-Request: true
+X-Dooray-Agent: mail-api
+X-Dooray-Mail-Id: 3850207695959667531
+Importance: Normal
+X-Priority: Normal
+X-MSMail-Priority: Normal
+X-Dooray-Attached: c3+LUOpPU/IB7Wl+oemm0lw5HiI/bJHHYClX72L8E3o=
+Sender: "CT Press" <ctpress@kaist.ac.kr>
+Date: Thu, 18 Jul 2024 15:37:13 +0900 (KST)
+References: <t92g9ntvsj1x.t92g9ntsq1uj.g4@dooray.com>
+	<t92o5mhivawm.t92o5mhmi5nm.g4@dooray.com>
+	<t92oirw38lye.t92oirw5ghyz.g4@dooray.com>
+In-Reply-To: <t92oirw38lye.t92oirw5ghyz.g4@dooray.com>
+Authentication-Results: mx.dooray.com;
+  spf=pass clientip=10.162.225.38 envelop.from=@kaist.ac.kr;
+  dkim=pass (signature was verified) header.d=kaist.ac.kr;
+  dmarc=pass header.from=kaist.ac.kr
+
+------=_Part_793310_423160117.1721284572483
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: base64
+
+IGh0dHBzOi8vY3Qua2Fpc3QuYWMua3IvYm9hcmRzL3ZpZXcvY3RwcmVzc19ib2FyZC80MjA0CiZu
+YnNwO0NUIFByZXNzIOuztOq4sCZuYnNwOyBodHRwczovL2N0LmthaXN0LmFjLmtyL2JvYXJkcy92
+aWV3L2N0cHJlc3NfYm9hcmQvNDIwNAoKCg==
+------=_Part_793310_423160117.1721284572483
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: base64
+
+PGRpdiBzdHlsZT0iZm9udC1mYW1pbHk6c3lzdGVtLXVpOyBmb250LXNpemU6MTRweDsiPjxkaXY+
+PGEgaHJlZj0iaHR0cHM6Ly9jdC5rYWlzdC5hYy5rci9ib2FyZHMvdmlldy9jdHByZXNzX2JvYXJk
+LzQyMDQiIHJlbD0ibm9vcGVuZXIgbm9yZWZlcnJlciIgdGFyZ2V0PSJfYmxhbmsiPjxpbWcgc3Jj
+PSJodHRwczovL2N0LmthaXN0LmFjLmtyL2ZpbGVzL2JvYXJkcy9jdHByZXNzX2JvYXJkL2JhNjc0
+ODlkZmExZGJkMTVjNTU5YmNhNTEwOWRkYTM5LmpwZyIgc3R5bGU9ImJveC1zaGFkb3c6cmdiYSgw
+LCAwLCAwLCAwLjEyKSAwcHggMXB4IDNweCwgcmdiYSgwLCAwLCAwLCAwLjE2KSAwcHggMXB4IDFw
+eCAxcHg7Ij48L2E+PC9kaXY+PGRpdj48YSBocmVmPSJodHRwczovL2N0LmthaXN0LmFjLmtyL2Jv
+YXJkcy92aWV3L2N0cHJlc3NfYm9hcmQvNDIwNCIgcmVsPSJub29wZW5lciBub3JlZmVycmVyIiB0
+YXJnZXQ9Il9ibGFuayI+PHN0cm9uZz4mbmJzcDtDVCBQcmVzcyDrs7TquLAmbmJzcDs8L3N0cm9u
+Zz48L2E+PC9kaXY+PGRpdj48YnI+PC9kaXY+PC9kaXY+
+------=_Part_793310_423160117.1721284572483--
+
