@@ -63,6 +63,25 @@ email_features = vectorizer.transform(df['cleaned_text'])
 # Predict phishing emails using the email model
 predicted_labels = email_model.predict(email_features)
 
+# plot the metrics 
+from sklearn.metrics import classification_report
+print(classification_report(df['label'], predicted_labels))
+
+# plot the confusion matrix of the email model 
+from sklearn.metrics import confusion_matrix
+import seaborn as sns
+
+conf_matrix = confusion_matrix(df['label'], predicted_labels)
+sns.heatmap(conf_matrix, annot=True, fmt='d', cmap='Blues')
+plt.xlabel('Predicted')
+plt.ylabel('Actual')
+plt.title('Confusion Matrix of Email Model')
+plt.savefig('confusion_matrix_email_model_now.png')
+plt.show()
+
+
+
+
 # Load the URL model and scaler
 url_model = joblib.load("./models/xgboost_model.pkl")
 scaler = joblib.load("./models/scaler_xgboost.pkl")
